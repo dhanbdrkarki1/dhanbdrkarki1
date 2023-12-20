@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhan Bahadur Karki</h1>
-<h3 align="center">A passionate Backend Developer and DevOps Engineer Enthusiasts</h3>
+<h3 align="center">A passionate DevOps Enthusiasts, AWS Cloud Practitioner and Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanbdrkarki1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanbdrkarki1" /> </p>
 
