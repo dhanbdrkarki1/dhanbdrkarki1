@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhan Bahadur Karki</h1>
-<h3 align="center">A passionate DevOps Enthusiasts, AWS Cloud Practitioner and Backend Developer </h3>
+<h3 align="center">DevOps Engineer, AWS Certified Solution Architect - Associate and Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanbdrkarki1&label=Profile%20views&color=0e75b6&style=flat" alt="dhanbdrkarki1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://karkidhan.com.np/](https://karkidhan.com.np/)
 
-- 💬 Ask me about **aws, ci/cd, container, container orchestration, python, django**
+- 💬 Ask me about **aws, ci/cd, container, infrastructure provisioning, configuration management, python, django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
